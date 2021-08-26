@@ -3,7 +3,7 @@
 El siguiente repo contiene algunos proyectos personales, acerca de diferentes formas para cifrar  mensajes, usando objetos conocidos.
 
 * Cifrado cesar (recorrer el alfabeto cierto número de letras)
-* Cifrado con cadenas de ADN donde cada caracter es un aminoacido diferente.
+* Cifrado con cadenas de ADN donde cada caracter es un nucleotido diferente.
 * Cifrado de matrices, usando matrices invertibles para regresar al mensaje original.
 * Cifrar una imagen, cambiando la información en RGB de cada pixel haciendo imposible ver la imagen original.
 * Cifrar un mensaje y convertirlo a un mapa de bits
